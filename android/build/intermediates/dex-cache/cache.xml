@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/gurtej.singh/Documents/Workspace/AudioPlayer/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/Users/gurtej.singh/Documents/Workspace/AudioPlayer/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.0_e47c657b792c169625c692babc6c281e5a6bc5ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gurtej.singh/Documents/Workspace/AudioPlayer/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/gurtej.singh/Documents/Workspace/AudioPlayer/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_f9128ea6a42ab16890d1bb756705f9820809bfa6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gurtej.singh/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/gurtej.singh/Documents/Workspace/AudioPlayer/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_a34eb988293a4ca2593eef9b6a02ffcbfe65633d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gurtej.singh/Documents/Workspace/AudioPlayer/android/app/build/intermediates/exploded-aar/MyApp/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f2cf527de8d0bd35d72088fafea02395ba4a9eec">
+        <dex dex="/Users/gurtej.singh/Documents/Workspace/AudioPlayer/android/app/build/intermediates/pre-dexed/debug/MyApp-react-native-vector-icons-unspecified_a9fcf6c61d19bfece453a094bc0b017bd3b9aea0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gurtej.singh/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="/Users/gurtej.singh/Documents/Workspace/AudioPlayer/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.0_3ba92133f008c7a9056a003e064f1cdf84dae10a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gurtej.singh/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/gurtej.singh/Documents/Workspace/AudioPlayer/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_a9298d1998e5d653c0454eea2e60a0a51372adf4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gurtej.singh/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/gurtej.singh/Documents/Workspace/AudioPlayer/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_90d80e1c15f6d793d03af8a2801100d4d79287e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gurtej.singh/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/gurtej.singh/Documents/Workspace/AudioPlayer/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_22f885243bf691ec6e443379a5cd75113f085b03.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gurtej.singh/Documents/Workspace/AudioPlayer/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.53.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b9a51262d663efadea9d0c402a5e76aace2685cb">
+        <dex dex="/Users/gurtej.singh/Documents/Workspace/AudioPlayer/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.53.0_08b0a7e936f14c14e1dc52391a641feb4981632d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gurtej.singh/Documents/Workspace/AudioPlayer/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/gurtej.singh/Documents/Workspace/AudioPlayer/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_f4d80a895ad7c7a47836973320aa30d7a0530121.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gurtej.singh/Documents/Workspace/AudioPlayer/android/app/build/intermediates/exploded-aar/MyApp/react-native-audio-player-recorder/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9dba7c278b8d3349759768895b61936ab499ab7f">
+        <dex dex="/Users/gurtej.singh/Documents/Workspace/AudioPlayer/android/app/build/intermediates/pre-dexed/debug/MyApp-react-native-audio-player-recorder-unspecified_410fe8656a2ea290f12b66d0a5d380556532b267.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gurtej.singh/Documents/Workspace/AudioPlayer/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/gurtej.singh/Documents/Workspace/AudioPlayer/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_8ba46923169794543ed178a26f177561bae1e918.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gurtej.singh/Documents/Workspace/AudioPlayer/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/gurtej.singh/Documents/Workspace/AudioPlayer/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_b6f5f2b08253151f7fe4b2a0412c81b00ac8e620.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gurtej.singh/Documents/Workspace/AudioPlayer/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/Users/gurtej.singh/Documents/Workspace/AudioPlayer/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.0_451e8247fdf9cb31f8b92dbc83246df1a1b65bc4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gurtej.singh/Documents/Workspace/AudioPlayer/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/gurtej.singh/Documents/Workspace/AudioPlayer/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_673529b314a07d97961d20b56177929168991e58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gurtej.singh/Documents/Workspace/AudioPlayer/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/gurtej.singh/Documents/Workspace/AudioPlayer/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_45b2e3c954b9d9a07f28870da006be280483ca75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gurtej.singh/Documents/Workspace/AudioPlayer/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/gurtej.singh/Documents/Workspace/AudioPlayer/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_b0cd416201fd4de9b061ba074413e3e947b61cd9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gurtej.singh/Documents/Workspace/AudioPlayer/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/gurtej.singh/Documents/Workspace/AudioPlayer/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_b872e5cf2f1d4b86109dc4aab2e2748c71bcdd2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gurtej.singh/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/gurtej.singh/Documents/Workspace/AudioPlayer/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_ade50f2cd5488a6c2a8121ce7cd8a579bba2d58d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gurtej.singh/Documents/Workspace/AudioPlayer/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/Users/gurtej.singh/Documents/Workspace/AudioPlayer/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.0_cb8cccd72ac8931b15f29b0afa79627a6d890950.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gurtej.singh/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/gurtej.singh/Documents/Workspace/AudioPlayer/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_0e1913e0dab569683dc1f22e7dcedc912e1f3d87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gurtej.singh/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/gurtej.singh/Documents/Workspace/AudioPlayer/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_12272fe0a002278050c314ba0b8b32ee7de7ca93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gurtej.singh/Documents/Workspace/AudioPlayer/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.53.0/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/gurtej.singh/Documents/Workspace/AudioPlayer/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_dfea9b9862c6cd240864d49b4d6bc9798edecc04.jar" />
+    </item>
+
+</items>
